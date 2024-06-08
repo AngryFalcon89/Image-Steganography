@@ -22,7 +22,7 @@ The encoding process in this project involves the following steps:
 
 ## Project Preview
 
-![Project Preview](https://example.com/project-preview.gif)
+![Project Preview](previewFinal.gif)
 
 ## How to Use
 
