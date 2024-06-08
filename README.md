@@ -1,5 +1,10 @@
 # BreadcrumbsImage-Steganography
 
+## Project Preview
+<p align="center">
+  <img src="previewFinal.gif" />
+</p>
+
 ## Concept
 
 Steganography is the practice of concealing a message, image, or file within another message, image, or file. Unlike cryptography, which focuses on encrypting the content of a message, steganography hides the existence of the message itself. This can be achieved by embedding the message within a carrier medium, such as an image or audio file, in a way that is not readily apparent to an observer.
@@ -20,9 +25,6 @@ The encoding process in this project involves the following steps:
 
 4. **Saving the Encoded Image**: Once the message has been successfully encoded into the image, the user has the option to save the encoded image to their device's storage.
 
-## Project Preview
-
-![Project Preview](previewFinal.gif)
 
 ## How to Use
 
