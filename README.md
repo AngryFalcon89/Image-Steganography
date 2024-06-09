@@ -1,4 +1,4 @@
-# BreadcrumbsImage-Steganography
+# Image-Steganography
 
 ## Project Preview
 <p align="center">
